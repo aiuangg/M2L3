@@ -9,3 +9,8 @@ h1 {
     font-size: 24px; /* Ukuran font tajuk (header) */
     font-family: Georgia, serif; /* Keluarga font yang digunakan di tajuk (header) */
 }
+h2 {
+    color: #86c91be2; /* Warna tajuk (header)*/
+    font-size: 24px; /* Ukuran font tajuk (header) */
+    font-family: Georgia, serif; /* Keluarga font yang digunakan di tajuk (header) */
+}
